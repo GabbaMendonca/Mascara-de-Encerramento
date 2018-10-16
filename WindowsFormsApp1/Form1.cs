@@ -48,7 +48,7 @@ namespace WindowsFormsApp1
                 "HORARIO DA FALHA: " + txt_abertura.Text + System.Environment.NewLine +
                 "HORARIO DE NORMALIZACAO: " + txt_normalizacao.Text + System.Environment.NewLine +
                 "CAUSA / SOLUCAO: " + varMotivo + System.Environment.NewLine + //var motivo
-                "CONTATO DE AUTORIZACAO: " + txt_validacao.Text + " CGR" + System.Environment.NewLine +
+                "CONTATO DE AUTORIZACAO: " + txt_validacao.Text + " CPD" + System.Environment.NewLine +
                 txt_senha.Text + System.Environment.NewLine +
                 log_da_Form2_teste.log_teste);
 
@@ -63,7 +63,7 @@ namespace WindowsFormsApp1
                 "HORARIO DA FALHA: " + txt_abertura.Text + System.Environment.NewLine +
                 "HORARIO DE NORMALIZACAO: " + txt_normalizacao.Text + System.Environment.NewLine +
                 "CAUSA / SOLUCAO: " + varMotivo + System.Environment.NewLine + //var motivo
-                "CONTATO DE AUTORIZACAO: " + txt_validacao.Text + " CGR" + System.Environment.NewLine +
+                "CONTATO DE AUTORIZACAO: " + txt_validacao.Text + " CPD" + System.Environment.NewLine +
                 txt_senha.Text + System.Environment.NewLine +
                 log_da_Form2_teste.log_teste);
 
