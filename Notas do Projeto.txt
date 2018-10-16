@@ -1,0 +1,4 @@
+A classe localiza texto esta localizando e substituindo as letras.
+Estou tentando fazer ela identificar se a hora foi inserida com segundos no final para na hora em que a classe fizera saida de dados, não sair com dois pontos no final como vem acomtecendo ( 00:00:).
+
+A alternativa que sera inplantada como provisoria e deve ser corrigida dopois e os segundos (valor pouco importante) sairem por padrão zerados.
